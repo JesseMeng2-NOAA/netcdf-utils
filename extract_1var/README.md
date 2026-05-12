@@ -11,6 +11,7 @@ This project provides a Fortran utility to:
 - Extract a target variable (`tmp2m` — 2-meter temperature)
 - Preserve all variable and global attributes
 - Write extracted data to a new NetCDF file
+- Jesse Meng
 
 ## Project Structure
 

@@ -12,6 +12,7 @@ This project provides a Fortran utility to:
 - Preserve all variable and global attributes
 - Write extracted data to a new NetCDF file
 - Jesse Meng
+- jesse.meng@noaa.gov
 
 ## Project Structure
 
